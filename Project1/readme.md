@@ -109,9 +109,8 @@ Absent students: ['john_doe', 'hamza_raza']
 
 ## Author
 
-**Author:** Sir Sparky  
+**Author:** Muhammed Mohsin  
 **Title:** The best software engineer in the whole world  
-**Mission:** Build systems that empower developers through AI and automation
 
 ## References
 
